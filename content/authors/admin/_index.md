@@ -19,29 +19,30 @@ role: Postdoc in Complexity and Big Data
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Copenhagen
-    # url: https://www.stanford.edu/
+    url: https://publichealth.ku.dk/about-the-department/section-epidemiology/research-epi/complexity-and-big-data/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
   - Biostatistics and Bioinformatics
-  - Computational Linguistics
-  - Information Retrieval
+  - Explainable Artificial Intelligence
+  - Public Health
+  - Immunology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biostatistics and Bioinformatics
+      institution: University of Copenhagen
+      year: 2022
+    - course: MSc in Bioinformatics and Systems Biology
+      institution: Technical University of Denmark
+      year: 2017
+    - course: BSc in Biochemistry
+      institution: Autonomous University of Madrid
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,15 +51,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:adrigabzu@sund.ku.dk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adrigabzu
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=fwnY4t0AAAAJ
   - icon: github
     icon_pack: fab
@@ -78,6 +79,8 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+author: 'admin'
 ---
 
 Technologically augmented <i>Homo sapiens</i>. I'm passionate about Science, AI and Philosophy. Looking for ways to democratize and improve AI interpretability.
