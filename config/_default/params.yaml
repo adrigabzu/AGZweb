@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: cyberpunk
   font_size: L
 
 # SEO
@@ -18,14 +18,12 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    # twitter: 'adrigabzu'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
   verification:
     google: ''
-    baidu: ''
 
 # Site header
 
@@ -43,9 +41,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    # notice: '© {year} Adrian G. Zucco. This work is licensed under {license}'
+    notice: '© {year} Adrian G. Zucco.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -62,7 +61,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    theme_dark: github-dark
   math:
     enable: false
   privacy_pack:
