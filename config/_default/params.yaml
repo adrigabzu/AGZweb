@@ -77,7 +77,7 @@ features:
     provider: 'utterances'
     commentable:
       post: true
-      book: true
+      # book: true
       project: true
       publication: true
       event: true
@@ -87,7 +87,7 @@ features:
       repo: 'adrigabzu/AGZweb'
       issue_term: 'title'
       label: 'comments'
-      theme: 'preferred-color-scheme'
+      theme: 'github-dark'
   # comment:
   #   provider: ''
   #   disqus:
