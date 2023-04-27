@@ -67,24 +67,39 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/adrigabzu/AGZweb'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
+  comments:
+    provider: 'utterances'
+    commentable:
+      post: true
+      book: true
+      project: true
+      publication: true
+      event: true
     commento:
       url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+    utterances:
+      repo: 'adrigabzu/AGZweb'
+      issue_term: 'title'
+      label: 'comments'
+      theme: 'preferred-color-scheme'
+  # comment:
+  #   provider: ''
+  #   disqus:
+  #     shortname: ''
+  #     show_count: true
+  #   commento:
+  #     url: ''
+  #   giscus:
+  #     repo: ''
+  #     repo_id: ''
+  #     category: ''
+  #     category_id: ''
   search:
     provider: wowchemy
     algolia:
