@@ -33,11 +33,11 @@ tags:
 - Infectious diseases
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "URL"
+  url: "http://www.nature.com/articles/s41598-022-17953-y"
 # url_pdf: http://www.nature.com/articles/s41598-022-17953-y
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_code: 'http://www.nature.com/articles/s41598-022-17953-y'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -47,10 +47,10 @@ featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+#   caption: ''
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

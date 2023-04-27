@@ -26,23 +26,25 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Biostatistics and Bioinformatics
-  - Explainable Artificial Intelligence
+  # - Biostatistics and Bioinformatics
+  - Explainable Machine Learning
   - Public Health
   - Immunology
+  - Cognitive Science
+  - Philosophy
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Biostatistics and Bioinformatics
       institution: University of Copenhagen
-      year: 2022
+      # year: 2022
     - course: MSc in Bioinformatics and Systems Biology
       institution: Technical University of Denmark
-      year: 2017
+      # year: 2017
     - course: BSc in Biochemistry
       institution: Autonomous University of Madrid
-      year: 2015
+      # year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

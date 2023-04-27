@@ -39,8 +39,13 @@ sections:
   - block: about.biography
     id: about
     content:
-        title: About me
+        title: 
         username: admin
+    design:
+      background:
+        gradient_end: '#004e92'
+        gradient_start: '#000428'
+        text_color_light: true
       # Override your bio text from `authors/admin/_index.md`?
       # text:
 
@@ -207,8 +212,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: list
+      columns: '1'
+      view: compact
   - block: collection
     content:
       title: Publications
@@ -222,7 +227,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: card
+      view: list
   # - block: collection
   #   id: talks
   #   content:
@@ -274,15 +279,15 @@ sections:
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
-    design:
-      columns: '2'
+    #   autolink: true
+    #   # Email form provider
+    #   form:
+    #     provider: netlify
+    #     formspree:
+    #       id:
+    #     netlify:
+    #       # Enable CAPTCHA challenge to reduce spam?
+    #       captcha: true
+    # design:
+    #   columns: '2'
 ---
