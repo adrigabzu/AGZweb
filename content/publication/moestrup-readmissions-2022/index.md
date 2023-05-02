@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Kasper S Moestrup
 - Joanne Reekie
-- Adrian G Zucco
+- admin
 - Tomas Ø Jensen
 - Jens Ulrik S Jensen
 - Lothar Wiese

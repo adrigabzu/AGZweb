@@ -10,7 +10,7 @@ summary: ''
 authors:
 - Christina Ekenberg
 - Man-Hung Tang
-- Adrian G. Zucco
+- admin
 - Daniel D. Murray
 - Cameron Ross MacPherson
 - Xiaojun Hu

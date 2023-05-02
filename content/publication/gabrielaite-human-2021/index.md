@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Migle Gabrielaite
 - Marc Bennedbæk
-- Adrian G Zucco
+- admin
 - Christina Ekenberg
 - Daniel D Murray
 - Virginia L Kan

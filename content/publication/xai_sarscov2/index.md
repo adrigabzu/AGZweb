@@ -2,7 +2,13 @@
 title: "Personalized survival probabilities for SARS-CoV-2 positive patients by explainable machine learning"
 authors:
 - admin
-- Rudi Agius, Rebecka Svanberg, Kasper S. Moestrup, Ramtin Z. Marandi, Cameron Ross MacPherson, Jens Lundgren, Sisse R. Ostrowski & Carsten U. Niemann
+- Rudi Agius
+- Rebecka Svanberg
+- Kasper S. Moestrup 
+- Ramtin Z. Marandi 
+- Cameron Ross MacPherson
+- Jens Lundgren
+- Sisse R. Ostrowski & Carsten U. Niemann
 
 # author_notes:
 # - "Equal contribution"

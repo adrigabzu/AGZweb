@@ -10,7 +10,7 @@ authors:
 - Birgit Grund
 - Cameron R. MacPherson
 - Christina Ekenberg
-- Adrian G. Zucco
+- admin
 - Joanne Reekie
 - Lourdes Dominguez-Dominguez
 - Preston Leung

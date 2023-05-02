@@ -10,7 +10,7 @@ authors:
 - Mette Jørgensen
 - Kasper Sommerlund Moestrup
 - Emma Elizabeth Ilett
-- Adrian Gabriel Zucco
+- admin
 - Ramtin Z Marandi
 - Marc Noguera Julian
 - Roger Paredes

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Christina Ekenberg
 - Joanne Reekie
-- Adrian G. Zucco
+- admin
 - Daniel D. Murray
 - Shweta Sharma
 - Cameron R. Macpherson

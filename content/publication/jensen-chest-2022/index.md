@@ -9,7 +9,7 @@ authors:
 - Christian M. Jensen
 - Junia C. Costa
 - Jens C. Nørgaard
-- Adrian G. Zucco
+- admin
 - Bastian Neesgaard
 - Carsten U. Niemann
 - Sisse R. Ostrowski
