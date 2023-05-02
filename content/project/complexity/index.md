@@ -1,6 +1,6 @@
 ---
-title: Complexity and Big Data group
-summary: Research group at the Section of Epidemiology at the University of Copenhagen. The aim of the research group is to study the social and biological factors determining health and disease and to elucidate the underlying behavioral, psychological, and physiological mechanisms that might explain these effects.
+title: Complexity and Big Data
+summary: Member of the Complexity and Big Data research group at the Section of Epidemiology, Department of Public Health, University of Copenhagen. The aim of the research group is to study the social and biological factors determining health and disease and to elucidate the underlying behavioral, psychological, and physiological mechanisms that might explain these effects.
 tags:
   - Complexity
   - Epidemiology
