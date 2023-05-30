@@ -4,6 +4,7 @@ summary: Member of the Complexity and Big Data research group at the Section of 
 tags:
   - Complexity
   - Epidemiology
+  - Methodology
 date: "2023-04-01"
 
 # Optional external URL for project (replaces project detail page).

@@ -169,7 +169,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Ongoing projects
       filters:
         folders:
           - project
@@ -183,10 +183,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Complexity
-          tag: Complexity
-        - name: Epidemiology
-          tag: Epidemiology
+        - name: Methods
+          tag: Methodology
+        - name: Mental Health
+          tag: Mental Health
         - name: xAI
           tag: xAI
     design:
@@ -228,16 +228,16 @@ sections:
     design:
       columns: '2'
       view: list
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching activities
+      filters:
+        folders:
+          - teaching
+    design:
+      columns: '1'
+      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
