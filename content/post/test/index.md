@@ -1,7 +1,7 @@
 ---
-title: Test post
+title: Empty post, empty mind
 subtitle: As life, it is work in progress
-summary: Trying things out
+summary: Post to test features and formatting
 authors:
   - admin
 tags: []
@@ -14,4 +14,4 @@ image:
   focal_point: ''
 ---
 
-Are there comments?
+Test grounds
