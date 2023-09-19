@@ -4,6 +4,7 @@ summary: PhD course to be held in February 2024. The course places great emphasi
 tags:
   - Compexity
   - Data Science
+  - Public Health
 date: "2023-08-07"
 
 # Optional external URL for project (replaces project detail page).
