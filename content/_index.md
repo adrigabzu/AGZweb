@@ -180,19 +180,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Methods
-          tag: Methodology
-        - name: Mental Health
-          tag: Mental Health
-        - name: xAI
-          tag: xAI
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Methods
+      #     tag: Methodology
+      #   - name: Mental Health
+      #     tag: Mental Health
+      #   - name: xAI
+      #     tag: xAI
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   # - block: markdown
