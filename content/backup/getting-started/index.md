@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-  - admin
+  # - admin
   - 吳恩達
 
 tags:
