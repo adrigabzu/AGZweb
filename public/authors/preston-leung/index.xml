@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preston Leung | Adrian Zucco</title>
+    <link>http://localhost:1313/authors/preston-leung/</link>
+      <atom:link href="http://localhost:1313/authors/preston-leung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preston Leung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
+      <title>Preston Leung</title>
+      <link>http://localhost:1313/authors/preston-leung/</link>
+    </image>
+    
+    <item>
+      <title>Associations of functional human leucocyte antigen class I groups with HIV viral load in a heterogeneous cohort</title>
+      <link>http://localhost:1313/publication/zucco-associations-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zucco-associations-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between ten-eleven methylcytosine dioxygenase 2 genetic variation and viral load in people with HIV</title>
+      <link>http://localhost:1313/publication/murray-association-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/murray-association-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

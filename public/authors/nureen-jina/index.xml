@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nureen Jina | Adrian Zucco</title>
+    <link>http://localhost:1313/authors/nureen-jina/</link>
+      <atom:link href="http://localhost:1313/authors/nureen-jina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nureen Jina</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
+      <title>Nureen Jina</title>
+      <link>http://localhost:1313/authors/nureen-jina/</link>
+    </image>
+    
+    <item>
+      <title>Association Between Single-Nucleotide Polymorphisms in HLA Alleles and Human Immunodeficiency Virus Type 1 Viral Load in Demographically Diverse, Antiretroviral Therapy–Naive Participants From the Strategic Timing of AntiRetroviral Treatment Trial</title>
+      <link>http://localhost:1313/publication/ekenberg-association-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ekenberg-association-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

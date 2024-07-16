@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleep | Adrian Zucco</title>
+    <link>http://localhost:1313/tag/sleep/</link>
+      <atom:link href="http://localhost:1313/tag/sleep/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sleep</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
+      <title>Sleep</title>
+      <link>http://localhost:1313/tag/sleep/</link>
+    </image>
+    
+    <item>
+      <title>Defining the landscape of sleep problems in young adults using machine learning on nationwide register data from 2 million individuals</title>
+      <link>http://localhost:1313/publication/zucco-poster-sleep-2024/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zucco-poster-sleep-2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

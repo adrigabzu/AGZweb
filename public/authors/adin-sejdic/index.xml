@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adin Sejdic | Adrian Zucco</title>
+    <link>http://localhost:1313/authors/adin-sejdic/</link>
+      <atom:link href="http://localhost:1313/authors/adin-sejdic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adin Sejdic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
+      <title>Adin Sejdic</title>
+      <link>http://localhost:1313/authors/adin-sejdic/</link>
+    </image>
+    
+    <item>
+      <title>Early stimulated immune responses predict clinical disease severity in hospitalized COVID-19 patients</title>
+      <link>http://localhost:1313/publication/svanberg-early-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/svanberg-early-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

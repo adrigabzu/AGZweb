@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cameron Ross MacPherson | Adrian Zucco</title>
+    <link>http://localhost:1313/authors/cameron-ross-macpherson/</link>
+      <atom:link href="http://localhost:1313/authors/cameron-ross-macpherson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cameron Ross MacPherson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
+      <title>Cameron Ross MacPherson</title>
+      <link>http://localhost:1313/authors/cameron-ross-macpherson/</link>
+    </image>
+    
+    <item>
+      <title>Metabolic Profiling Early Post-Allogeneic Haematopoietic Cell Transplantation in the Context of CMV Infection</title>
+      <link>http://localhost:1313/publication/rasmussen-metabolic-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rasmussen-metabolic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized survival probabilities for SARS-CoV-2 positive patients by explainable machine learning</title>
+      <link>http://localhost:1313/publication/xai_sarscov2/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xai_sarscov2/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Association Between Single-Nucleotide Polymorphisms in HLA Alleles and Human Immunodeficiency Virus Type 1 Viral Load in Demographically Diverse, Antiretroviral Therapy–Naive Participants From the Strategic Timing of AntiRetroviral Treatment Trial</title>
+      <link>http://localhost:1313/publication/ekenberg-association-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ekenberg-association-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
