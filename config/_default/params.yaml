@@ -29,8 +29,9 @@ marketing:
 
 header:
   navbar:
+    blox: "navbar"
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -52,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Mon, 02 Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
