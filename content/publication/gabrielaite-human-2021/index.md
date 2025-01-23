@@ -47,7 +47,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:27.968205Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: 'Understanding the genetic interplay between human hosts and infectious
   pathogens is crucial for how we interpret virulence factors. Here, we tested for
   associations between HIV and host genetics, and interactive genetic effects on viral

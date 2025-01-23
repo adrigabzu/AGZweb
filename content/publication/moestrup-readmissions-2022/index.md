@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:28.322441Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: 'Many interventional in-patient coronavirus disease 2019 (COVID-19) trials
   assess primary outcomes through day 28 post-randomization. Since a proportion of
   patients experience protracted disease or relapse, such follow-up period may not

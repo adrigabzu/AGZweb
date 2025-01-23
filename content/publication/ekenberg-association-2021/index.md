@@ -41,7 +41,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:27.805146Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: 'Objectives:  The Strategic Timing of AntiRetroviral Treatment (START) and
   Strategies for Management of Antiretroviral Therapy (SMART) trials demonstrated
   that ART can partly reverse clinically defined immune dysfunction induced by HIV

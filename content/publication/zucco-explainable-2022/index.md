@@ -28,8 +28,26 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-05-02T10:22:53.274126Z'
+# Publication type.
+# {
+#     "article": "article-journal",
+#     "book": "book",
+#     "conference": "paper-conference",
+#     "inbook": "chapter",
+#     "incollection": "chapter",
+#     "inproceedings": "paper-conference",
+#     "manual": "book",
+#     "mastersthesis": "thesis",
+#     "patent": "patent",
+#     "phdthesis": "thesis",
+#     "proceedings": "book",
+#     "report": "report",
+#     "thesis": "thesis",
+#     "techreport": "report",
+#     "unpublished": "manuscript",
+# }
 publication_types:
-- '7'
+- "thesis"
 abstract: 'This thesis aims to present Machine Learning applications for the development
   of precision medicine in patients with infectious diseases. This is outlined by
   proposing computational solutions to two major challenges in precision medicine:

@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2023-08-07T14:06:26.995961Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: Objective:  Human leucocyte antigen (HLA) class I alleles are the main host
   genetic factors involved in controlling HIV-1 viral load (VL). Nevertheless, HLA
   diversity has proven a significant challenge in association studies. We assessed

@@ -50,7 +50,7 @@ image:
 projects: []
 publishDate: '2023-09-15T10:28:07.254770Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: 'Immune dysfunction resulting from allogeneic haematopoietic stem cell transplantation
   (aHSCT) predisposes one to an elevated risk of cytomegalovirus (CMV) infection.
   Changes in metabolism have been associated with adverse outcomes, and in this study,

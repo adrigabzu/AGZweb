@@ -50,7 +50,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:27.636168Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: “To investigate the impact of host genetics on human immunodeficiency virus
   type 1 control among individuals of different ancestry, we performed genome-wide
   ass

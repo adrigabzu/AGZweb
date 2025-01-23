@@ -45,7 +45,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:28.565666Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: Spatial resolution in existing chest x-ray (CXR)-based scoring systems for
   coronavirus disease 2019 (COVID-19) pneumonia is low, and should be increased for
   better representation of anatomy, and severity of lung involvement. An existing

@@ -29,6 +29,7 @@ interests:
   # - Biostatistics and Bioinformatics
   - Explainable Machine Learning
   - Public Health
+  - Complex Systems
   - Immunology
   - Cognitive Science
   - Philosophy

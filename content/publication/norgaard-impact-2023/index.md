@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:28.951549Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: Antibiotic-resistant bacterial infections are increasingly an issue in allogenic
   hematopoietic stem cell transplant patients. How antibiotic treatment impacts antibiotic
   resistance in the human gut microbiome remains poorly understood in vivo. Here,

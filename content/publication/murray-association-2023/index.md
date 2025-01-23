@@ -44,7 +44,7 @@ image:
 projects: []
 publishDate: '2023-04-27T09:11:28.756567Z'
 publication_types:
-- '2'
+- "article-journal"
 abstract: Introduction:  Identifying genetic factors that influence HIV-pathogenesis
   is critical for understanding disease pathways. Previous studies have suggested
   a role for the human gene ten-eleven methylcytosine dioxygenase 2 (TET2) in modulating
