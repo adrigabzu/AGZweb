@@ -44,10 +44,10 @@ sections:
     design:
       background:
         # image:
-          # filename: network.gif
-        gradient_end: '#004e92'
-        gradient_start: '#000428'
-        text_color_light: true
+        #   filename: network.gif
+        # gradient_end: '#004e92'
+        # gradient_start: '#000428'
+        # text_color_light: true
       # Override your bio text from `authors/admin/_index.md`?
       # text:
 

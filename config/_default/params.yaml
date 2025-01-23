@@ -6,13 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
+  theme_day: Mr Robot
   theme_night: minimal
-  font: cyberpunk
-  font_size: M
+  font: Raleway
+  font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Person

@@ -11,6 +11,6 @@ date: "2023-04-01"
 external_link: https://healthcomplex.dk/
 
 image:
-  caption: Generated with Leonardo AI
+  caption: 
   focal_point: Smart
 ---
