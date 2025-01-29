@@ -7,10 +7,10 @@
 
 appearance:
   # See assests/scss/custom.scss
-  # mode: dark
+  mode: dark
   # color: customtheme
-  # theme_day: customtheme
-  # theme_night: minimal
+  theme_day: adrian
+  theme_night: adrian
   # font: Raleway
   # font_size: L
 
