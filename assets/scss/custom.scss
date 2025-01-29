@@ -9,6 +9,19 @@
   font-style: normal;
 }
 
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+:root {
+  --color-primary-50: #004e92;
+  --secondary-color: #000428;
+  --background-color: #ffffff;
+  --text-color: #333333;
+  --accent-color: #ff4081;
+}
+
+
 // .page-body{
 //     background: linear-gradient(-45deg, #000000, #004e92, #000428);
 // 	background-size: 400% 400%;
@@ -24,12 +37,37 @@
 // }
 
 #about {
+  
+  .article-style {
+    font-size: 19px;
+  }
+
+  color: #ffffff !important;
 
     // background-image: url("../uploads/network_moving.gif");
     // background-image: url("../uploads/network.gif");
     // background-position: center; /* Center the image */
     // background-repeat: no-repeat; /* Do not repeat the image */
     // background-size: cover; 
+  
+    .portrait-title h2 {
+      // color: rgb(255, 255, 255);
+      font-weight: bold;
+      color: rgb(0, 0, 0);
+    }
+
+    .portrait-title h3 {
+      color: rgb(0, 0, 0);
+    }
+
+    .portrait-title a {
+      color: rgb(0, 0, 0);
+    }
+
+    .network-icon a {
+      color: rgb(0, 0, 0);
+    }
+
 
     // Animated gradient
     background: linear-gradient(-45deg, #000B58,

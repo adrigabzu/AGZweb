@@ -6,10 +6,13 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: minimal
-  font: Raleway
-  font_size: L
+  # See assests/scss/custom.scss
+  # mode: dark
+  # color: customtheme
+  # theme_day: customtheme
+  # theme_night: minimal
+  # font: Raleway
+  # font_size: L
 
 # SEO
 marketing:
