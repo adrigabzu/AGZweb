@@ -4,6 +4,10 @@ title:
 date: 
 type: landing
 
+# design:
+#   # Default section spacing
+#   spacing: "6rem"
+
 sections:
   # - block: hero
   #   content:
@@ -193,8 +197,8 @@ sections:
       #     tag: xAI
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: compact
+      columns: '2'
+      view: masonry 
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   # - block: markdown
@@ -233,12 +237,12 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching activities
+      title: Teaching
       filters:
         folders:
           - teaching
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   # - block: tag_cloud
   #   content:
