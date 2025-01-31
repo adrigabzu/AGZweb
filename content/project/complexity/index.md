@@ -8,7 +8,7 @@ tags:
 date: "2023-04-01"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: https://healthcomplex.dk/
+external_link: https://healthcomplex.dk/
 
 image:
   caption: 
