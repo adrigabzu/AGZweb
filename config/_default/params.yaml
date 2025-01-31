@@ -8,7 +8,7 @@
 appearance:
   # See assests/scss/custom.scss
   mode: dark
-  # color: black
+  color: adrian
   theme_day: adrian
   theme_night: adrian
   # font: Raleway

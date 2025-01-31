@@ -2,7 +2,7 @@
 name = "adrian"
 
 [light]
-  # Primary
+  # Primar
   primary = "#1565c0"
 
   # Menu
@@ -17,7 +17,17 @@ name = "adrian"
 
 [dark]
   # Primary
-  primary = "rgb(0, 0, 0)"
+  primary = "#0F0F0F"
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#ffffff"
+  link_hover = "#D84040"
+
+  menu_primary = "#0F0F0F"
+  menu_text = "#ffffff"
+  menu_text_hover = "#D84040"
+  menu_text_active = "#D84040"
+  menu_title = "#ffffff"
+
+  background = "#0F0F0F"
+  home_section_odd = "#0F0F0F"
+  home_section_even = "#000000"
