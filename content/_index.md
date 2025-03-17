@@ -213,16 +213,6 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      view: compact
-  - block: collection
-    content:
-      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -230,10 +220,24 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
     design:
-      columns: '2'
-      view: list
+      columns: '1'
+      view: compact
+  # - block: collection
+  #   content:
+  #     title: Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: list
   - block: collection
     id: teaching
     content:

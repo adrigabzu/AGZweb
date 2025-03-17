@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Zucco</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu6038dbd17db210a07028cde60a2399e9_12361_512x512_fill_lanczos_center_3.png</url>
-      <title>Adrian Zucco</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
     <item>
       <title>Example Talk</title>
       <link>http://localhost:1313/talk/example-talk/</link>
@@ -48,6 +42,22 @@
 &lt;!-- 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ShinyApp - HLA frequencies and predicted HIV epitopes</title>
+      <link>http://localhost:1313/codelab/hivapp/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/codelab/hivapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iTol - Functional HLA consensus clustering based on predicted binding affinities to HIV peptides</title>
+      <link>http://localhost:1313/codelab/hlaclust/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/codelab/hlaclust/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -391,7 +401,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-153842967&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-463172958&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -401,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-153842967&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-463172958&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
